@@ -5,15 +5,15 @@ Welcome to my GitHub profile! I am a **Data Analyst** passionate about programmi
 ## 🛠️ Technical Skills
 
 ### 📊 Data Analysis & Machine Learning
-- **Languages:** ![Python](https://shields.io) ![SQL](https://shields.io)
+- **Languages:** Python, SQL, Google BigQuery
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
 - **Machine Learning:** Regression, Clustering (K-Means)
 
 ### 📈 Business Intelligence
-![Power BI](https://shields.io) ![DAX](https://shields.io) ![Excel](https://shields.io) ![Power Query](https://shields.io)
+- **Tools & Languages:** Power BI, DAX, Microsoft Excel, Power Query
 
 ### 🔧 Development Tools
-![VS Code](https://shields.io) ![Jupyter Notebook](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io)
+- **Environment & Version Control:** VS Code, Jupyter Notebook, Git, GitHub
 
 ---
 
